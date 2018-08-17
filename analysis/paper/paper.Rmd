@@ -38,6 +38,8 @@ library(testpaper) # Or use devtools::load_all('.', quiet = T) if your code is i
 
 Here is a citation [@Marwick2017].  If I type some material here it shows up in  he rendered document.  Make sure you are working in the right project when trying to make commits!  rrtools creates a new git reporistory and Rstudio project.
 
+There is an rrtools to connecta local repo to github
+
 # Background
 
 ```{r demo, eval = FALSE}
